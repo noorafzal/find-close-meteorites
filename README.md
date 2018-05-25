@@ -8,5 +8,6 @@ First, install pipenv. Then:
 
 ```
 pipenv install
-pipenv run python src/meteors/python-for-beginners-find-meteors.py
+pipenv install requests
+pipenv run python src/meteors/find_meteors.py
 ```
